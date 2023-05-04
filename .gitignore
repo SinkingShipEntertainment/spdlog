@@ -81,3 +81,7 @@ cmake-build-*/
 *.tcl
 *.user
 *.sln
+
+# SSE
+.vscode
+_rez_build
